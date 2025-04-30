@@ -15,4 +15,5 @@ You need to install all required packages listed in the requirements.txt to run 
 The app use streamlit for frontend and fastapi for backend
 
 To run frontend, go into the frontend directory and run the following: `streamlit run 1_🏠_Main.py`
+
 To run backend, go into the backend directory and run the following: `uvicorn backend:app --reload --host 0.0.0.0 --port 8000`
