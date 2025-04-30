@@ -2,7 +2,7 @@
 
 # Deepfake Voice Detection App
 
-This project is a web application designed to detect synthetic speech generated through Voice Conversion (VC), Text-To-Speech (TTS), and TTS-VC techniques. It combines the power of **Streamlit** for a user-friendly interface and **FastAPI** for fast and efficient backend processing.
+This project is a web application designed to detect synthetic speech generated through Voice Conversion (VC), Text-To-Speech (TTS), and TTS-VC techniques. The app use streamlit for frontend and fastapi for backend. It combines the power of **Streamlit** for a user-friendly interface and **FastAPI** for fast and efficient backend processing. 
 
 # Requirements
 
@@ -11,8 +11,6 @@ You need to install all required packages listed in the requirements.txt to run 
 `pip install -r requirements.txt`
 
 # How to run
-
-The app use streamlit for frontend and fastapi for backend
 
 To run frontend, go into the frontend directory and run the following: `streamlit run 1_🏠_Main.py`
 
