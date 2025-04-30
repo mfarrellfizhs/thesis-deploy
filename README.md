@@ -1,16 +1,16 @@
 # thesis-deploy
 
-# Synthetic Speech Detection App
+# Deepfake Voice Detection App
 
 This project is a web application designed to detect synthetic speech generated through Voice Conversion (VC), Text-To-Speech (TTS), and TTS-VC techniques. It combines the power of **Streamlit** for a user-friendly interface and **FastAPI** for fast and efficient backend processing.
 
-##Requirements
+#Requirements
 
 You need to install all required packages listed in the requirements.txt to run this app.
 
 `pip install -r requirements.txt`
 
-##How to run
+#How to run
 
 The app use streamlit for frontend and fastapi for backend
 
